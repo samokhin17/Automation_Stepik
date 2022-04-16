@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="59ca6f0a-996c-46e3-9d5c-ad0b643d98d1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/environments/selenium_env/Include/3.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/environments/selenium_env/Include/testunit.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +35,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/environments/selenium_env/Include" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Alexander\Documents\GitHub\Automation_Stepik\environments\selenium_env\Include" />
+    </key>
   </component>
   <component name="RunManager" selected="Python tests.Python tests in testpy.py">
     <configuration name="testunit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
